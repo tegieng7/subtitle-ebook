@@ -1,0 +1,15 @@
+{
+    "bookInfo": {
+        "title": "TBD",
+        "author": "TBD",
+        "cover": "cover.jpg"
+    },
+    "zconfig": {
+        "subtitleSuffix": [
+            ".srt"
+        ],
+        "episodePattern": [
+            ".s(?P<season>\\d+)e(?P<episode>\\d+)."
+        ]
+    }
+}
